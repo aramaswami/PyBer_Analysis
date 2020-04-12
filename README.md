@@ -3,7 +3,7 @@
 Analyzing PyBer's rider, driver, and fare data is critical for understanding the business and planning for future growth. I completed a comprehensive analysis of the ride_data and fare_date using a variety of tools and techniques.  
 
 To understand the data, I have provided the following charts.  
-Fig_1: Py-Ber Ride Sharing Data (2019) is a bubble chart that shows the correlation between fares and number of rides, by type of city. ![PyBer Ride Share Data](analysis/fig1)  
+Fig_1: Py-Ber Ride Sharing Data (2019) is a bubble chart that shows the correlation between fares and number of rides, by type of city. ![PyBer Ride Share Data](analysis/Fig1.png)  
 
 Fig2,3,4: Box-Whisker charts that show the range, mean, median, and distribution of counts of rides, fares, and drivers for each city type.![Ride_count](analysis/fig2) ![Ride_fare](analysis/fig3) ![Driver_count](analysis/fig4)  
 Fig5,6,7: Pie charts that show the percentage of rides, fares, and drivers for each city type.![%_Rides](analysis/fig6) ![%_Fares](analysis/fig7) ![%_Drivers](analysis/fig7)
