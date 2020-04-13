@@ -20,7 +20,9 @@ As the table shows, the company’s business is fueled in large part in urban ci
 The second part of management’s question relates to fare trends over time in each type of city. For this analysis, I created several cuts of the data that would enable us to generate a line chart that shows total fares in a week as a time series. Please review the following chart for a guide on fare trends.  
 ![Fare_trend](analysis/Fig8.png)  
 
-This is a summary table of the results: ![Fares_summary](analysis/Fig10)
+This is a summary table of descriptive statistices for fares by city type:  
+![Fares_summary](analysis/Fig10.png)  
+
 
 The data clearly show the following:
 -	Rural fare totals are much smaller weekly, amounting to $230 on average. However, they are a lot more variable with a std deviation of almost $114 (or 50% of the mean). 
