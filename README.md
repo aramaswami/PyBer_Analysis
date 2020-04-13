@@ -17,9 +17,9 @@ To address management’s key questions about the overall summary of the busines
 As the table shows, the company’s business is fueled in large part in urban cities. Out of 2375 rides in the period considered, over 68 percent of rides cities are in urban and another 26 percent are in suburban cities. More than 80 percent of drivers are in urban cities, and 16 percent in suburban, leaving only 2 percent of drivers in rural areas. As a result, fares in rural areas are about 40% higher on a per ride basis. And the lower competition also results in greater income for rural drivers, where they make over $55 per ride on average compared with just over $16 per ride in urban cities.
 
 ## Challenge Part_2
-The second part of management’s question relates to fare trends over time in each type of city. For this analysis, I created several cuts of the data that would enable us to generate a simple line chart that shows total fares in a week as a time series.  
+The second part of management’s question relates to fare trends over time in each type of city. For this analysis, I created several cuts of the data that would enable us to generate a line chart that shows total fares in a week as a time series. Please review the following chart for a guide on fare trends.  
+![Fare_trend](analysis/Fig8)  
 
-Please review the chart at: ![Fare_trend](analysis/Fig8)  
 This is a summary table of the results: ![Fares_summary](analysis/Fig10)
 
 The data clearly show the following:
