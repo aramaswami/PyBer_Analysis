@@ -4,7 +4,9 @@ Analyzing PyBer's rider, driver, and fare data is critical for understanding the
 
 I created the following charts to understand the raw data we have in csv files. (For quick reference, I've included the ride_sharing bubble chart below; please refer to the analysis folder for the other charts.)  
 Fig_1: Py-Ber Ride Sharing Data (2019) is a bubble chart that shows a plot of fares and number of rides, by type of city.  
+
 ![](analysis/Fig1.png)  
+
 
 Fig2,3,4: Box-Whisker charts that show the range, mean, median, and distribution of counts of rides, fares, and drivers for each city type.  
 Fig5,6,7: Pie charts that show the percentage of rides, fares, and drivers for each city type.  
