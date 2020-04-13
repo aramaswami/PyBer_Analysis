@@ -18,7 +18,7 @@ As the table shows, the company’s business is fueled in large part in urban ci
 
 ## Challenge Part_2
 The second part of management’s question relates to fare trends over time in each type of city. For this analysis, I created several cuts of the data that would enable us to generate a line chart that shows total fares in a week as a time series. Please review the following chart for a guide on fare trends.  
-![Fare_trend](analysis/Fig8)  
+![Fare_trend](analysis/Fig8.png)  
 
 This is a summary table of the results: ![Fares_summary](analysis/Fig10)
 
