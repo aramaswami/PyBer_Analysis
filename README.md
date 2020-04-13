@@ -27,7 +27,8 @@ This is a summary table of descriptive statistices for fares by city type:
 ![Fares_summary](analysis/Fig10.png)  
 
 
-The data clearly show the following:
+The data clearly show the following:  
+- The chart shows that fare totals vary but are within certain ranges over the weeks for which we analyzed the data. The variability is much higher for rural areas, compared with urban and suburban, as we discuss below.
 -	Rural fare totals are much smaller weekly, amounting to $230 on average. However, they are a lot more variable with a std deviation of almost $114 (or 50% of the mean). 
 -	Urban weekly fare totals average about $2160 (almost 10x of rural areas) and are also much less variable with a std dev of just $222, or around 10%.
 -	Suburban cities are also much smaller than urban cities in their profile, with average weekly fares of $1040 (around half of urban cities) but their variability is similar at $171 or about 15% of average fares.  
